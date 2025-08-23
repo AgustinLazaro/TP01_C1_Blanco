@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: f7c214986a0feaf47a566e7b94635ad4
+  productGUID: d6bfb5ace2946ef499700c9baf4d1140
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: prueba_proyecto_practicas
+  productName: PROYECTO_PRUEBA
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -603,16 +603,16 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: prueba_proyecto_practicas
-  metroPackageVersion: 
+  metroPackageName: PROYECTOPRUEBA
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: prueba_proyecto_practicas
+  metroApplicationDescription: PROYECTO_PRUEBA
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: PROYECTO_PRUEBA
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -681,10 +681,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 69ee3aed-471c-4498-8d61-553cf1409b32
+  cloudProjectId: 0f5723ce-a43c-4978-86a7-c4f9a0a66bfa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: prueba_proyecto_practicas
+  projectName: PROYECTO_PRUEBA
   organizationId: agustinblanco12
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
