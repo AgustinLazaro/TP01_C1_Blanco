@@ -1,9 +1,4 @@
-using NUnit.Framework.Constraints;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class movement: MonoBehaviour
 {
@@ -13,15 +8,15 @@ public class movement: MonoBehaviour
 
     //Declaracion de Teclas. LAS ROTACIONES Y EL CAMBIO DE COLOR SON EDITABLES desde el inspector.
     //no se por que no se quedan predefinidas con el Keycode.
-    public KeyCode keyUp = KeyCode.W;
-    public KeyCode keyLeft = KeyCode.A;
-    public KeyCode keyRight= KeyCode.D;
-    public KeyCode keyDown = KeyCode.S;
-    public KeyCode RotateRight = KeyCode.E;
-    public KeyCode RotateLeft = KeyCode.Q;
-    public KeyCode ChangeColor = KeyCode.R;
+    public KeyCode keyUp;
+    public KeyCode keyLeft;
+    public KeyCode keyRight;
+    public KeyCode keyDown;
+    public KeyCode RotateRight;
+    public KeyCode RotateLeft;
+    public KeyCode ChangeColor;
 
-    private void Update()
+    void Update()
     {
         //WASD, ROTACION DE PLAYERS Y CAMBIO DE COLOR
 
